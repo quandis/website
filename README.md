@@ -2,16 +2,25 @@
 
 Quandis will contract with a WordPress designer to create a new site, hosted on WordPress.com, by restructing our [existing site](https://www.quandis.com/) and porting existing content into the restructured site. High level requirements include:
 
-- Suggesting a site navigation layout (menuing)
-- Suggesting a theme
+- Designing a site navigation layout (menuing)
+- Choosing a theme
 - Porting existing content into the new site
   - suggestions on editing existing content are encouraged, but not required
+- Enabling some content to require social sign-in, so we can identify the user(s) access some resources
+  - example: right now, our [Business Continuity Plan](https://www.quandis.com/about/support/business-continuity) requires a simple password
+  - we'd prefer to collect an email address via SSO to access similar resources
+
+We expect the site to maintained by:
+
+- Marketing employee for landing pages and other marketing content
+- Developers for technical documentation, using mardown
+- Automation for technical documentation, pushing markdown to the site using the WordPress API
 
 We're looking for an estimate to execute on these requirements.
 
 # Background
 
-Quandis is a software company that sells:
+Quandis is a Fintech software company that sells:
 
 - Quandis Business Objects (QBO) which is a Platform-as-a-Service
 - Several Software-as-a-Service products built upon QBO
