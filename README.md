@@ -9,6 +9,7 @@ Quandis will contract with a WordPress designer to create a new site, hosted on 
 - Enabling some content to require social sign-in, so we can identify the user(s) access some resources
   - example: right now, our [Business Continuity Plan](https://www.quandis.com/about/support/business-continuity) requires a simple password
   - we'd prefer to collect an email address via SSO to access similar resources
+- Propose e-commerce integration (see below for details)
 
 We expect the site to maintained by:
 
@@ -59,3 +60,14 @@ Our suggested main menu structure includes:
 > Not sure how to best mesh the concept that Military Search is the same product offering different value to different industries.
 > Perhaps another main menu for Industry? 
 
+# E-Commerce integration
+
+For Quandis' SaaS products, we'd like a "Sign up Now" button that accepts a credit card / ACH information from the user. However, the SaaS charges are pay-as-you-go, so each client's bill will change each month. Thus, we need:
+
+- Credit card / bank account info handled in a PCI-compliant manner
+- Basic user information stored in a location easily fetch via API
+- The ability to trigger an invoice monthly
+
+If there is a third-party component that you propose using that meets these requirements, great.
+
+If not, Quandis's system include APIs to do much of this, so calling our APIs direct from the WordPress form(s) is an option.
