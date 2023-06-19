@@ -1,6 +1,6 @@
 # Quandis Website Requirements
 
-Quandis will contract with a WordPress designer to create a new site, hosted on WordPress.com, by restructing our [existing site](https://www.quandis.com/) and porting existing content into the restructured site. High level requirements include:
+Quandis will contract with a WordPress designer to create a new site, hosted on WordPress.com, by restructuring our [existing site](https://www.quandis.com/) and porting existing content into the restructured site. High level requirements include:
 
 - Designing a site navigation layout (menuing)
 - Choosing a theme
@@ -14,7 +14,7 @@ Quandis will contract with a WordPress designer to create a new site, hosted on 
 We expect the site to maintained by:
 
 - Marketing employee for landing pages and other marketing content
-- Developers for technical documentation, using mardown
+- Developers for technical documentation, using markdown
 - Automation for technical documentation, pushing markdown to the site using the WordPress API
 
 We're looking for an estimate to execute on these requirements.
