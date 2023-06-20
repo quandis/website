@@ -45,12 +45,6 @@ Quandis wished to redesign it's website with the following goals:
 
 As part of this project, create at least one page for each of the bulleted items listed below. Specified goals are annoated in italics. 
 
-## The Learn portion of the website is the most complicated
-
-A specific navigation requirement for the Learn portion of the website:  we're looking for suggestions on how to present the same concepts, in different depth, to difference audiences.
-For example, when looking at the `learn/platform/document page`, I should be able to toggle between End User, Power User, and Developer views, which would route to `learn/platform/document/enduser`, `learn/platform/document/poweruser`, or `learn/platform/document/developer pages`. Once I'm on the 'poweruser' view, navigating to `learn/platform/message` in the main menu should take me to `learn/platform/message/poweruser`.
-If there is no `learn/platform/message/poweruser` page, revert to `learn/platform/message`.
-
 ## Navigation
 
 Our suggested main menu structure is below. We expect at a minimum the sub of each second-level page (unless 'optional' is specified).
@@ -78,6 +72,17 @@ Our suggested main menu structure is below. We expect at a minimum the sub of ea
     - suggestions on restructing this existing content are welcome
 - Partners: content describing our existing partners, with a 'Become a Reseller' and 'Become an Integrator' link to a contact form
 - Support: content info, ISO info, etc, akin to our [existing support page](https://www.quandis.com/about/support)
+
+## The Learn portion of the website is the most complicated
+
+A specific navigation requirement for the Learn portion of the website:  we're looking for suggestions on how to present the same concepts, in different depth, to difference audiences.
+For example, when looking at the `learn/platform/document page`, I should be able to toggle between:
+- End User: `learn/platform/document/enduser`, 
+- Power User: `learn/platform/document/poweruser`, and
+- Developer: `learn/platform/document/developer pages` views
+
+Once I'm on the 'poweruser' view, navigating to `learn/platform/message` in the main menu should take me to `learn/platform/message/poweruser`.
+If there is no `learn/platform/message/poweruser` page, revert to `learn/platform/message`.
 
 ## Minimum Pages 
 
