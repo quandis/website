@@ -52,7 +52,7 @@ Our suggested main menu structure is below. We expect at a minimum the sub of ea
 - Home: company overview
 - [Platform](https://www.quandis.com/products/platform): QBO, with sub-menu items for each module 
 - Services: _describe SaaS products to decision makers / check writers, with a "Sign up Now" form to hook into the e-commerce portion noted below_
-  - [Military Search](https://www.quandis.com/products/qmc)
+  - [Military Compliance](https://www.quandis.com/products/qmc)
   - [Bankruptcy Search](https://www.quandis.com/products/data-services/qbs)
   - [Attorney Data Reporting](https://www.quandis.com/freddiemacadr_attorneyguide_html) (optional)
 - Industries: _brief overview of industries that Quandis products are in use_
@@ -64,7 +64,7 @@ Our suggested main menu structure is below. We expect at a minimum the sub of ea
   - Platform
     - Overview
     - Documents: example content for [end user](https://www.quandis.com/products/platform/document-management), [power user](https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/5/Document-Management), [developer](https://github.com/quandis/qbo3-Documentation/wiki/document-api)
-  - Military Search (optional)
+  - Military Compliance (optional)
   - Bankruptcy Search (optional)
   - Attorney Data Reporting (optional)
   - _eventually, this portion of the site will be auto-updated from our code repos via docfx, pushing markdown via WordPress API calls_
