@@ -103,6 +103,7 @@ The minimum deliverable should include the following routes:
 - /learn/platform/document/developer: the core content must be done in markdown 
 - /partners
 - /support
+- /support/policy/businesscontinuity: this should require that we collect an email address before the user can access it, preferably via social sign-in
 
 # E-Commerce integration
 
