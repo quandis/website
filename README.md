@@ -25,7 +25,7 @@ Quandis is a Fintech software company that sells:
 
 - Quandis Business Objects (QBO) which is a Platform-as-a-Service
 - Several Software-as-a-Service products built upon QBO
-  - [Military Search](https://www.quandis.com/products/data-services/qms): search or monitor contacts for eligibility for MLA and SCRA protections
+  - [Military Compliance](https://www.quandis.com/qmc): search or monitor contacts for eligibility for MLA and SCRA protections
   - [Bankruptcy Search](https://www.quandis.com/products/data-services/qbs): search or monitor contacts for bankruptcy
   - [Title Direct](https://www.quandis.com/products/applications/quandis-title-direct): centralize ordering of Title products across departments
   - [Attorney Data Reporting](https://www.quandis.com/freddiemacadr_attorneyguide_html): enable foreclosure and bankruptcy attorneys to report case status to their clients
@@ -52,7 +52,7 @@ Our suggested main menu structure is below. We expect at a minimum the sub of ea
 - Home: company overview
 - [Platform](https://www.quandis.com/products/platform): QBO, with sub-menu items for each module 
 - Services: _describe SaaS products to decision makers / check writers, with a "Sign up Now" form to hook into the e-commerce portion noted below_
-  - [Military Search](https://www.quandis.com/products/data-services/qms) (merged with [MLA](https://www.quandis.com/products/data-services/mla-search))
+  - [Military Search](https://www.quandis.com/products/qmc)
   - [Bankruptcy Search](https://www.quandis.com/products/data-services/qbs)
   - [Attorney Data Reporting](https://www.quandis.com/freddiemacadr_attorneyguide_html) (optional)
 - Industries: _brief overview of industries that Quandis products are in use_
@@ -91,7 +91,7 @@ The minimum deliverable should include the following routes:
 - /home
 - /platform
 - /services
-- /services/militarysearch
+- /services/militarycompliance
 - /services/bankruptcysearch
 - /industry
 - /industry/mortgageservicing
