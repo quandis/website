@@ -95,7 +95,7 @@ The minimum deliverable should include the following routes:
 - /learn/platform/document
 - /learn/platform/document/enduser
 - /learn/platform/document/poweruser
-- /learn/platform/document/developer
+- /learn/platform/document/developer: the core content must be done in markdown 
 - /partners
 - /support
 
