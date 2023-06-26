@@ -41,6 +41,15 @@ Quandis wished to redesign it's website with the following goals:
   - industries include Banking, Mortgage Servicing, Insurance, Fintech Software Platforms, Debt Recovery
 - Port our user documentation current in an Azure Devops Blog into the www.quandis.com site
 
+## Sites we like
+
+Some websites that we think convey a technology platform/product well include:
+
+- [Twilio](https://www.twilio.com/en-us)
+- [LogicMonitor](https://www.logicmonitor.com/)
+- [Microsoft Dynamics](https://dynamics.microsoft.com/en-us/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/docs/)
+
 # Site Structure
 
 As part of this project, create at least one page for each of the bulleted items listed below. Specified goals are annoated in italics. 
