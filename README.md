@@ -97,22 +97,23 @@ If there is no `learn/platform/message/poweruser` page, revert to `learn/platfor
 
 The minimum deliverable should include the following routes:
 
-- /home
-- /platform
-- /services
-- /services/militarycompliance
-- /services/bankruptcysearch
+- /home: content based on https://www.quandis.com/
+- /platform: content from https://www.quandis.com/products/platform
+- /services: content based on https://www.quandis.com/products/data-services
+- /services/militarycompliance: content based on https://www.quandis.com/qmc
+- /services/bankruptcysearch: content based on https://www.quandis.com/products/data-services/qbs
 - /industry
 - /industry/mortgageservicing
-- /learn
-- /learn/platform
+- /learn: content based on https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/72/Introduction-to-QBO
+- /learn/platform: content based on https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/85/Configuration-Guide
 - /learn/platform/document
-- /learn/platform/document/enduser
-- /learn/platform/document/poweruser
-- /learn/platform/document/developer: the core content must be done in markdown 
+- /learn/platform/document/enduser: content based on https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/92/Document-Management
+- /learn/platform/document/poweruser: content based on https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/5/Document-Management
+- /learn/platform/document/developer: **the core content must be done in markdown**,  content based on https://github.com/quandis/qbo3-Documentation/wiki/document-api
 - /partners
-- /support
-- /support/policy/businesscontinuity: this should require that we collect an email address before the user can access it, preferably via social sign-in
+- /support: content based on https://www.quandis.com/about/support
+- /support/policy/businesscontinuity: content based on https://www.quandis.com/about/support/business-continuity, password is QuandisPolicie$
+  - this should require that we collect an email address before the user can access it, preferably via social sign-in
 
 # E-Commerce integration
 
