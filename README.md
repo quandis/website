@@ -102,7 +102,9 @@ The minimum deliverable should include the following routes:
 - /services: content based on https://www.quandis.com/products/data-services
 - /services/militarycompliance: content based on https://www.quandis.com/qmc
 - /services/bankruptcysearch: content based on https://www.quandis.com/products/data-services/qbs
-- /industry
+- /industry: our industries are Financial Services, Insurance, and Mortgage
+  - something like https://www.twilio.com/en-us/solutions/real-estate or
+  - https://www.twilio.com/en-us/solutions/financial-services
 - /industry/mortgageservicing
 - /learn: content based on https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/72/Introduction-to-QBO
 - /learn/platform: content based on https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/85/Configuration-Guide
@@ -110,7 +112,7 @@ The minimum deliverable should include the following routes:
 - /learn/platform/document/enduser: content based on https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/92/Document-Management
 - /learn/platform/document/poweruser: content based on https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/5/Document-Management
 - /learn/platform/document/developer: **the core content must be done in markdown**,  content based on https://github.com/quandis/qbo3-Documentation/wiki/document-api
-- /partners
+- /partners: something like https://appsource.microsoft.com/en-us/marketplace/partner-dir
 - /support: content based on https://www.quandis.com/about/support
 - /support/policy/businesscontinuity: content based on https://www.quandis.com/about/support/business-continuity, password is QuandisPolicie$
   - this should require that we collect an email address before the user can access it, preferably via social sign-in
