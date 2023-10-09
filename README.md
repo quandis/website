@@ -49,6 +49,7 @@ Some websites that we think convey a technology platform/product well include:
 - [LogicMonitor](https://www.logicmonitor.com/)
 - [Microsoft Dynamics](https://dynamics.microsoft.com/en-us/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/docs/)
+- [Decisions](https://decisions.com/)
 
 # Site Structure
 
