@@ -1,6 +1,6 @@
 # Quandis Website Requirements
 
-Quandis will contract with a WordPress designer to create a new site, hosted on WordPress.com, by restructuring our [existing site](https://www.quandis.com/) and porting existing content into the restructured site. High level requirements include:
+Quandis will contract with a website designer to create a new site, hosted on a platform like WordPress.com, by restructuring our [existing site](https://www.quandis.com/) and porting existing content into the restructured site. High level requirements include:
 
 - Designing a site navigation layout (menuing)
 - Choosing a theme
@@ -15,7 +15,7 @@ We expect the site to maintained by:
 
 - Marketing employee for landing pages and other marketing content
 - Developers for technical documentation, using markdown
-- Automation for technical documentation, pushing markdown to the site using the WordPress API
+- Automation for technical documentation, pushing markdown to the site using an API for additions and updates
 
 We're looking for an estimate to execute on these requirements.
 
@@ -77,7 +77,7 @@ Our suggested main menu structure is below. We expect at a minimum the sub of ea
   - Military Compliance (optional)
   - Bankruptcy Search (optional)
   - Attorney Data Reporting (optional)
-  - _eventually, this portion of the site will be auto-updated from our code repos via docfx, pushing markdown via WordPress API calls_
+  - _eventually, this portion of the site will be auto-updated from our code repos via docfx, pushing markdown via API calls_
   - [existing content is here](https://dev.azure.com/quandisopensource/Documentation/_wiki/wikis/Documentation.wiki/72/Introduction-to-QBO)
     - suggestions on restructing this existing content are welcome
 - Partners: content describing our existing partners, with a 'Become a Reseller' and 'Become an Integrator' link to a contact form
@@ -128,4 +128,4 @@ For Quandis' SaaS products, we'd like a "Sign up Now" button that accepts a cred
 
 If there is a third-party component that you propose using that meets these requirements, great.
 
-If not, Quandis's system include APIs to do much of this, so calling our APIs direct from the WordPress form(s) is an option.
+If not, Quandis's system include APIs to do much of this, so calling our APIs direct from the website form(s) is an option.
